@@ -4,7 +4,7 @@
 - It is a Full Stack E-commerce application with Angular at front-end and Spring Boot at back-end.
 
 
-- Developed a Backend with Spring boot using REST APIs and MySQL Database.
+- Developed Backend with Spring boot using REST APIs and MySQL Database.
 
 - For the Processing of credit card payments, Stripe API is used. (https://stripe.com/in/)
 
